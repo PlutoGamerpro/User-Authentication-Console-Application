@@ -9,10 +9,14 @@
   </PropertyGroup>
 
 
+
 <ItemGroup>
     <Compile Include="..\Program\Program.cs" />
-  </ItemGroup>
+   <Compile Include="..\Models\Password.cs" />
+   <Compile Include="..\Models\FodboldKourrence.cs" />
+   <Compile Include="..\Models\DanseKonkurrence.cs" />
 
+  </ItemGroup>
 
 
 
